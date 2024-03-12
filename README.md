@@ -38,7 +38,7 @@ My journey as a full-stack developer started with a love for creating and buildi
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://tenor.com/view/kakashi-hello-hi-wave-naruto-shippuden-gif-17469786" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/736x/82/30/f9/8230f958ec2ad9eaeddf50435f670029.jpg" align="center" style="width: 100%" />
 </div>
 
 
