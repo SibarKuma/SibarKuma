@@ -38,7 +38,7 @@ My journey as a full-stack developer started with a love for creating and buildi
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://tenor.com/view/kakashi-hello-hi-wave-naruto-shippuden-gif-17469786" align="center" style="width: 100%" />
 </div>
 
 
@@ -94,4 +94,3 @@ My journey as a full-stack developer started with a love for creating and buildi
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
